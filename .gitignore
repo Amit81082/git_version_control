@@ -20,6 +20,6 @@ about.html
 private.env
 
 # Ignore everything inside temp folder except keep.txt
-temp/*
-!temp/keep.txt
+# temp/*
+# !temp/keep.txt
 
