@@ -15,4 +15,9 @@ build/
 .DS_Store
 
 ind.html
-about.html
+!about.html
+
+# Ignore everything inside temp folder except keep.txt
+temp/*
+!temp/keep.txt
+
