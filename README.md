@@ -4,6 +4,7 @@ This is a simple project to practice **Git and GitHub** commands, branches, and 
 
 ## Features
 - Learn Git basics: add, commit, push
+- git in vs code
 - Branching and merging
 - Handling merge conflicts
 
